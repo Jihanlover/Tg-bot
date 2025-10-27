@@ -1,10 +1,5 @@
 {
   "version": 2,
-  "functions": {
-    "api/bot.php": {
-      "runtime": "@juicy-g/vercel-php"
-    }
-  },
   "routes": [
     {
       "src": "/(.*)",
