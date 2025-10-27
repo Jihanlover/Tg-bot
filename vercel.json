@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/bot.php": {
-      "runtime": "vercel-php@0.6.0" 
+      "runtime": "vercel-php@community"
     }
   },
   "routes": [
